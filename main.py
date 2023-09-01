@@ -3,7 +3,7 @@
 #         self.assertTrue(5 == 5)
 
 
-def func(x):
+def f(x):
     count = 0
     for i in x:
         count += 1
